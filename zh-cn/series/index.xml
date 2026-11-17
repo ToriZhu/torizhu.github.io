@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on 朱子湉的个人主页</title>
+    <link>https://torizhu.github.io/zh-cn/series/</link>
+    <description>Recent content in Series on 朱子湉的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>asadixmu@aliyun.com (朱子湉)</managingEditor>
+    <webMaster>asadixmu@aliyun.com (朱子湉)</webMaster>
+    <copyright>© 2026 朱子湉</copyright>
+    <atom:link href="https://torizhu.github.io/zh-cn/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Theory on Tori&#39;s Website</title>
+    <link>https://torizhu.github.io/tags/graph-theory/</link>
+    <description>Recent content in Graph Theory on Tori&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
+    <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
+    <copyright>© 2026 Tori</copyright>
+    <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://torizhu.github.io/tags/graph-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kuratowski’s Theorem and its Application in Algorithm</title>
+      <link>https://torizhu.github.io/maths/kuratowskis-theorem-and-its-application-in-algorithm/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>https://torizhu.github.io/maths/kuratowskis-theorem-and-its-application-in-algorithm/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

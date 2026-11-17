@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maths on Tori&#39;s Website</title>
+    <link>https://torizhu.github.io/maths/</link>
+    <description>Recent content in Maths on Tori&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
+    <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
+    <copyright>© 2026 Tori</copyright>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://torizhu.github.io/maths/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stratifying Directed Partial Orders on ℂ by Puiseux Series</title>
+      <link>https://torizhu.github.io/maths/stratifying-directed-partial-orders-on-c-by-puiseux-series/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>https://torizhu.github.io/maths/stratifying-directed-partial-orders-on-c-by-puiseux-series/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Construction of Directed Partial Orders on the Complex Field by Puiseux Series and Stratification</title>
+      <link>https://torizhu.github.io/maths/stratification-directed-partial-orders-puiseux-series/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>https://torizhu.github.io/maths/stratification-directed-partial-orders-puiseux-series/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kuratowski’s Theorem and its Application in Algorithm</title>
+      <link>https://torizhu.github.io/maths/kuratowskis-theorem-and-its-application-in-algorithm/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>https://torizhu.github.io/maths/kuratowskis-theorem-and-its-application-in-algorithm/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

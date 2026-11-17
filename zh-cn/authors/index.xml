@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on 朱子湉的个人主页</title>
+    <link>https://torizhu.github.io/zh-cn/authors/</link>
+    <description>Recent content in Authors on 朱子湉的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>asadixmu@aliyun.com (朱子湉)</managingEditor>
+    <webMaster>asadixmu@aliyun.com (朱子湉)</webMaster>
+    <copyright>© 2026 朱子湉</copyright>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://torizhu.github.io/zh-cn/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zitian Zhu</title>
+      <link>https://torizhu.github.io/zh-cn/authors/zitian-zhu/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (朱子湉)</author>
+      <guid>https://torizhu.github.io/zh-cn/authors/zitian-zhu/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Tori&#39;s Website</title>
+    <link>https://torizhu.github.io/authors/</link>
+    <description>Recent content in Authors on Tori&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
+    <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
+    <copyright>© 2026 Tori</copyright>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://torizhu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zitian Zhu</title>
+      <link>https://torizhu.github.io/authors/zitian-zhu/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (Tori)</author>
+      <guid>https://torizhu.github.io/authors/zitian-zhu/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

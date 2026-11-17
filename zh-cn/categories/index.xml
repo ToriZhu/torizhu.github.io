@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 朱子湉的个人主页</title>
+    <link>https://torizhu.github.io/zh-cn/categories/</link>
+    <description>Recent content in Categories on 朱子湉的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>asadixmu@aliyun.com (朱子湉)</managingEditor>
+    <webMaster>asadixmu@aliyun.com (朱子湉)</webMaster>
+    <copyright>© 2026 朱子湉</copyright>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://torizhu.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Maths</title>
+      <link>https://torizhu.github.io/zh-cn/categories/maths/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (朱子湉)</author>
+      <guid>https://torizhu.github.io/zh-cn/categories/maths/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://torizhu.github.io/zh-cn/categories/art/</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (朱子湉)</author>
+      <guid>https://torizhu.github.io/zh-cn/categories/art/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Feeling</title>
+      <link>https://torizhu.github.io/zh-cn/categories/feeling/</link>
+      <pubDate>Sun, 08 Nov 2026 11:36:01 +0800</pubDate>
+      <author>asadixmu@aliyun.com (朱子湉)</author>
+      <guid>https://torizhu.github.io/zh-cn/categories/feeling/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

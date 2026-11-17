@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://torizhu.github.io/sitemap.xml

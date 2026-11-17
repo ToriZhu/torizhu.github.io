@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on 朱子湉的个人主页</title>
+    <link>https://torizhu.github.io/zh-cn/art/</link>
+    <description>Recent content in Art on 朱子湉的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>asadixmu@aliyun.com (朱子湉)</managingEditor>
+    <webMaster>asadixmu@aliyun.com (朱子湉)</webMaster>
+    <copyright>© 2026 朱子湉</copyright>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://torizhu.github.io/zh-cn/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>摄影展回顾</title>
+      <link>https://torizhu.github.io/zh-cn/art/photography-exhibition-review/</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <author>asadixmu@aliyun.com (朱子湉)</author>
+      <guid>https://torizhu.github.io/zh-cn/art/photography-exhibition-review/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://torizhu.github.io/art/photography-exhibition-review/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

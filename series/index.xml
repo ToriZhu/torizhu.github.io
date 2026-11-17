@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Tori&#39;s Website</title>
+    <link>https://torizhu.github.io/series/</link>
+    <description>Recent content in Series on Tori&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>asadixmu@aliyun.com (Tori)</managingEditor>
+    <webMaster>asadixmu@aliyun.com (Tori)</webMaster>
+    <copyright>© 2026 Tori</copyright>
+    <atom:link href="https://torizhu.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
